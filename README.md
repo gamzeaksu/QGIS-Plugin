@@ -10,6 +10,7 @@ These ways are:
 and finding the distance between them
   2. After selecting the points with Select Feature(s) on the QGIS menu, calculating the
 distance between them in the plugin
+
 Three different distance calculation metrics are calculated for the distance between the
 selected points in the plugin. These:
   1. Euclidean Distance
